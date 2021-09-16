@@ -6,6 +6,6 @@ Ce projet a été réalisé en collaboration avec :
 -William Barry
 -Fallou Seye
 -Vincent Weber
-
+-Baptiste Pottier
 
 Voir le fichier "Sujet" pour en savoir plus sur le cahier des charges
